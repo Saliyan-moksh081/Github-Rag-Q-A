@@ -1,0 +1,5 @@
+google-adk
+chromadb
+chonkie[code]
+litellm>=1.84
+boto3

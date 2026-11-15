@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+venv/
+Docenv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.adk/
+**/.adk/
+**/.env
+**/.env.*
+!**/.env.example
+**/chroma_db/
+github_rag/source_repo/
+github_rag/repo_state.json
